@@ -1,0 +1,5 @@
+#these are here incase I forget to delete a test file before I commit
+test.*
+Test.*
+testFile.*
+TestFile.*
