@@ -3,6 +3,6 @@
 # You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 #TODO: Rewrite so the filename is input as a parameter
-$fileName = Read-Host "Input file to create."
+$fileName = Read-Host "Input file to create"
 
 Invoke-Expression "cd . > $fileName"
